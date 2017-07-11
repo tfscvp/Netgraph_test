@@ -2,3 +2,9 @@
 1*888
 names(cars)
 plot(cars$speed,cars$dist)
+
+#this was written by someoneelse!!!
+library("dplyr")
+cars %>% 
+  plot()
+  
