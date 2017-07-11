@@ -20,7 +20,6 @@ library('igraph')
 
 rm(list=ls())
 
-network <- read.csv("/Users/theesspreckelsen/Google Drive/4_Teaching/A_Supervisions_Oxford/2016_ClaudiaStoicescu/DataOrig/RDSdata_22May2017.csv")
 
 network %>%  
   select(from = id,ref1,ref2,ref3, seed) %>% 
