@@ -13,6 +13,11 @@ library('igraph')
 1+3
 8*4444
 
+
+#I am really getting into this meaning, I am probably close to getting a better grasp of
+# all the nonsense
+ "white rhino"
+
 rm(list=ls())
 
 network <- read.csv("/Users/theesspreckelsen/Google Drive/4_Teaching/A_Supervisions_Oxford/2016_ClaudiaStoicescu/DataOrig/RDSdata_22May2017.csv")
