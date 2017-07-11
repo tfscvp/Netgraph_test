@@ -2,7 +2,6 @@
 title: "Wunderbar Wunderbär"
 author: "Thees F Spreckelsen"
 date: "11 July 2017"
-output: html_document
 ---
 
 ```{r setup, include=FALSE}
