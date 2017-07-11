@@ -7,6 +7,12 @@ library('igraph')
 #-------------------------------
 #Lets add some stuff.
 #Lots of stuff gooes hereeeee.
+
+
+#Lets write some code
+1+3
+8*4444
+
 rm(list=ls())
 
 network <- read.csv("/Users/theesspreckelsen/Google Drive/4_Teaching/A_Supervisions_Oxford/2016_ClaudiaStoicescu/DataOrig/RDSdata_22May2017.csv")
